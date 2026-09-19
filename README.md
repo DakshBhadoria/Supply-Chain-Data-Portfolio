@@ -58,3 +58,32 @@ Analyzed customers, products, categories, orders, and revenue to identify key pa
 - SQL Server
 - SQLite
 - GitHub
+
+  ---
+
+### 📊 Project 4 - Driver Safety Dashboard (Excel)
+"Created an interactive Excel dashboard from the Project 3 SQL data to visualize driver incident distribution, financial impact, and the risk-reward trade-off between high revenue and safety exposure."
+
+### Dataset
+- **Source:** Kaggle (Driver Performance Logistics Dataset)
+- **Data Pipeline:** Extracted using SQL (Project 3) and visualized in Excel.
+- **Data File:** `Project4_Driver_Dashboard.xlsx`
+
+**Skills demonstrated:**
+
+- PivotTables
+- PivotCharts (Pie Chart)
+- Slicers
+- Interactive Filtering
+- Data Visualization
+- Dashboard Design
+
+[View Project 4 →](./Project%204%20-%20Excel%20Driver%20Dashboard)
+
+## Tools 
+
+- Microsoft Excel
+- DB Browser for SQLite
+- Github
+
+---
