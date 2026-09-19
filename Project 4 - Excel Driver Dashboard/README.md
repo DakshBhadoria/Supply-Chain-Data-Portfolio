@@ -10,8 +10,10 @@ Create an interactive Excel dashboard to analyze the percentage of drivers in ea
 
 ### Dataset
 - **Source:** Kaggle (Driver Performance Logistics Dataset)
+- **Data Pipeline:** Extracted using SQL (Project 3) and visualized in Excel.
 - **Data File:** `Project4_Driver_Dashboard.xlsx`
 
+  
 ### Tools Used
 - Microsoft Excel
 - PivotTables
@@ -31,7 +33,7 @@ Create an interactive Excel dashboard to analyze the percentage of drivers in ea
 - **Slicer:** Allows the user to interactively filter the dashboard by `Total_Incidents`.
 
 ### Outcome
-Successfully transformed raw driver data into an interactive Excel dashboard. The visualizations reveal the distribution of drivers across different incident levels and highlight the revenue associated with each risk tier. This demonstrates the ability to translate database query results into a business intelligence tool.
+Successfully transformed raw driver data into an interactive Excel dashboard. The data was first extracted using SQL in Project 3, then imported into Excel for visualization. The final dashboard reveals the distribution of drivers across different incident levels and highlights the revenue associated with each risk tier, demonstrating a complete end-to-end data analytics workflow.
 
 ### Key Findings (Top Results)
 
